@@ -1,5 +1,5 @@
 - 👋 Hi, I’m dheeraj
-- 👀 I’m interested in Space and Waste Management 
+- 👀 I’m interested in Space and tech hacks 
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
