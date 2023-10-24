@@ -1,12 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://in.pinterest.com/pin/711709547369749111/)
-
-
-
 <h1 align="center">Hi 👋, I'm Dheeraj</h1>
 <h3 align="center">Mastering the Digital Universe: Navigating Front-end and Back-end Realms</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-code1&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-code1" /> </p>
 
